@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<c1:cours  xmlns:c1="http://www.masociete.com"  xmlns:c2="http://www.monentreprise.com">
+
+<c1:titre> cours de livre 1</c1:titre>
+<c1:auteur >
+<c1:titre> les auteurs</c1:titre> 
+<c1:nom>ernest</c1:nom>
+<c1:prenom> hemingaw</c1:prenom>
+
+<c1:nom>john</c1:nom>
+<c1:prenom> steinbeck</c1:prenom>
+
+</c1:auteur>
+<c1:section>
+<c1:section numero='1'> 
+<c1:titre> 1ere partie </c1:titre>
+<c1:chapitre>
+<c1:titre> 1er chapitre </c1:titre>
+
+<c1:paragraphe >
+
+***************
+</c1:paragraphe>
+<c1:paragraphe >
+
+/////////////////</c1:paragraphe>
+</c1:chapitre>
+<c1:chapitre >
+<c1:titre> 2eme chapitre</c1:titre>
+
+<c1:paragraphe >
+
+***************</c1:paragraphe>
+<c1:paragraphe >
+
+/////////////////</c1:paragraphe></c1:chapitre>
+</c1:section>
+
+<c2:section numero='2'>
+<c2:titre> 2eme partie </c2:titre>
+<c2:chapitre >
+<c2:titre> 1er chapitre </c2:titre>
+
+<c2:paragraphe >
+
+***************</c2:paragraphe>
+
+<c2:paragraphe >
+
+/////////////////</c2:paragraphe></c2:chapitre>
+<c2:chapitre >
+<c2:titre> 2eme chapitre </c2:titre>
+
+<c2:paragraphe >
+
+***************</c2:paragraphe>
+<paragraphe >
+
+/////////////////</paragraphe>
+</c2:chapitre>
+</c2:section>
+</c1:section>
+</c1:cours>

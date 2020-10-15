@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<cours>
+<titre> cours de livre 1</titre>
+<auteur >
+<titre> les auteurs</titre> 
+<nom>ernest</nom>
+<prenom> hemingaw</prenom>
+
+<nom>john</nom>
+<prenom> steinbeck</prenom>
+
+</auteur>
+
+<section numero='1'> 
+<titre> 1ere partie </titre>
+<chapitre>
+<titre> 1er chapitre </titre>
+
+<paragraphe >
+
+***************
+</paragraphe>
+<paragraphe >
+
+/////////////////</paragraphe>
+</chapitre>
+<chapitre >
+<titre> 2eme chapitre</titre>
+
+<paragraphe >
+
+***************</paragraphe>
+<paragraphe >
+
+/////////////////</paragraphe></chapitre>
+</section>
+
+<section numero='2'>
+<titre> 2eme partie </titre>
+<chapitre >
+<titre> 1er chapitre </titre>
+
+<paragraphe >
+
+***************</paragraphe>
+
+<paragraphe >
+
+/////////////////</paragraphe></chapitre>
+<chapitre >
+<titre> 2eme chapitre </titre>
+
+<paragraphe >
+
+***************</paragraphe>
+<paragraphe >
+
+/////////////////</paragraphe>
+</chapitre>
+</section>
+</cours>
